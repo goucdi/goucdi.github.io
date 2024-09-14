@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://goucdi.github.io/KcT/sitemap.KcT.gz
